@@ -169,11 +169,11 @@ header.site{
 .brand{ display:flex; align-items:center; gap:0.65rem; text-decoration:none; flex-shrink:0; }
 .brand img{ height: 34px; width:auto; }
 .brand-region{
-  font-family: var(--mono);
-  font-size: 0.7rem;
+  font-family: var(--sans);
+  font-size: 0.72rem;
   font-weight: 600;
-  letter-spacing: 0.1em;
-  color: var(--gold-light);
+  letter-spacing: 0.14em;
+  color: var(--cream);
   text-transform: uppercase;
   border-left: 1px solid var(--line-on-navy);
   padding-left: 0.65rem;
